@@ -21,7 +21,7 @@ Haowen Yang is a second year PhD student from [Data Science and Analytics Thrust
 He is fortunate to be advised by [Prof. Zishuo Ding](https://personal.hkust-gz.edu.cn/ding/). 
 Previously, he earned his MPhil from [CUHK-Shenzhen](https://www.cuhk.edu.cn/en) where he was fortunate to be advised by [Prof. Pinjia He](https://pinjiahe.github.io/) at the [School of Data Science](https://cs.pku.edu.cn/). Before joining CUHK-Shenzhen, he received his BEng degree from the [College of Automation Engineering](https://cae.nuaa.edu.cn/zdh_en/) at [Nanjing University of Aeronautics and Astronatics (NUAA)](https://www.nuaa.edu.cn/) in 2022.
 
-🔎 His current research interest lies in LLM4SE, particularly LLMs for code efficiency, and OSS. 
+🔎 His current research interests lie in code efficiency harness, AI infra, and code2video.
 Collaborations and discussions in these domains are welcomed.
 
 
